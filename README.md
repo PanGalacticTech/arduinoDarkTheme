@@ -1,7 +1,7 @@
 # arduinoDarkTheme
 Personalised Dark theme for Arduino IDE
 
-Similar to One Dark Pro, However navy background has been made grey
+Similar to One Dark Pro for VScode, with a few personalised touches
 
 
 "Go to the directory where Arduino is installed.
