@@ -8,7 +8,10 @@ Similar to One Dark Pro, However navy background has been made grey
 The default directory is "C:\Program Files (x86)\Arduino\lib".
 Rename the original "theme" folder for backup"
 
-Then copy all of these files into a new theme folder.
+Then copy all files in "theme" folder a new theme folder.
+
+
+Alternatively just replace the theme.txt files in the theme folder. 
 
 
 
