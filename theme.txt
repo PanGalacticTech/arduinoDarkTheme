@@ -123,12 +123,17 @@ editor.comment2.style = #aaaaaa,plain
 linestatus.font	   = SansSerif,plain,10
 linestatus.height  = 20
 
+
 # GUI - PLOTTING
 # color cycle created via colorbrewer2.org
-plotting.bgcolor = #ffffff
-plotting.color = #ffffff
-plotting.graphcolor.size = 4
-plotting.graphcolor.00 = #2c7bb6
-plotting.graphcolor.01 = #fdae61
-plotting.graphcolor.02 = #d7191c
-plotting.graphcolor.03 = #abd9e9
+plotting.bgcolor = #1f1f1f
+#plotting.color = #292929
+plotting.color = #000000
+plotting.graphcolor.size = 10
+plotting.graphcolor.00 = #00dade
+plotting.graphcolor.01 = #e0bb00
+plotting.graphcolor.02 = #00aade
+plotting.graphcolor.03 = #e07400
+plotting.graphcolor.04 = #e000e0
+plotting.graphcolor.05 = #00e025
+plotting.graphcolor.06 = ##c4c4c4
